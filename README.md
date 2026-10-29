@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Aazan Ali Khan 👋</h1>
 
----
-
 ### 👋 Who I Am
 
 I'm an Electrical & Electronics Engineer (B.Sc., COMSATS University Islamabad, Abbottabad Campus) whose work bridges RF/telecom, embedded systems, PCB design, and applied AI/ML. I previously worked as an RF Optimization Engineer on Huawei's network project (via TurnoTech), running audit cycles across thousands of 2G/4G/5G sites, and completed an AI/ML Engineering internship at DevelopersHub Corporation. My most-cited project is my Final Year Project: an AI-based autonomous tracking robot (YOLOv8n + Kalman Filter) running on a Raspberry Pi 4.
