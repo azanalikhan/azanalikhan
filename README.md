@@ -50,16 +50,6 @@ I'm an Electrical & Electronics Engineer (B.Sc., COMSATS University Islamabad, A
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01E36?style=flat-square" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azanalikhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azanalikhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azanalikhan&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 📫 How to Reach Me
 
