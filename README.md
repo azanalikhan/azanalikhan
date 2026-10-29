@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Aazan Ali Khan 👋</h1>
 
-<!--
-**azanalikhan/azanalikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=RF+Optimization+Engineer;Embedded+Systems+%2B+PCB+Design;Computer+Vision+%26+AI%2FML;Currently+Learning+Python+%F0%9F%90%8D;Currently+Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://aazanalikhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://youtube.com/@BreadthofKnowledge"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 Who I Am
+
+I'm an Electrical & Electronics Engineer (B.Sc., COMSATS University Islamabad, Abbottabad Campus) whose work bridges RF/telecom, embedded systems, PCB design, and applied AI/ML. I previously worked as an RF Optimization Engineer on Huawei's network project (via TurnoTech), running audit cycles across thousands of 2G/4G/5G sites, and completed an AI/ML Engineering internship at DevelopersHub Corporation. My most-cited project is my Final Year Project: an AI-based autonomous tracking robot (YOLOv8n + Kalman Filter) running on a Raspberry Pi 4.
+
+### 🔭 What I'm Currently Working On
+
+- 🌱 Learning **Python** in depth
+- 🇯🇵 Learning the **Japanese language**
+- 💻 Expanding into software development and AI/ML through self-directed projects
+- 🎬 Building **PlotPort** (anime/drama tracking blog) and a Flask-based drama tracking app
+
+### 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,kicad,matlab,opencv,html,css,php,flask,verilog" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-00A651?style=flat-square" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8%2FYOLOv11-111F68?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01E36?style=flat-square" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azanalikhan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azanalikhan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azanalikhan&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📫 How to Reach Me
+
+<p align="center">
+  <a href="https://aazanalikhan.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://youtube.com/@BreadthofKnowledge"><img src="https://img.shields.io/badge/-Breadth%20of%20Knowledge-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+</p>
