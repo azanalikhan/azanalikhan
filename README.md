@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://aazanalikhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://youtube.com/@BreadthofKnowledge"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  
 </p>
 
 ---
@@ -65,5 +65,4 @@ I'm an Electrical & Electronics Engineer (B.Sc., COMSATS University Islamabad, A
 
 <p align="center">
   <a href="https://aazanalikhan.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://youtube.com/@BreadthofKnowledge"><img src="https://img.shields.io/badge/-Breadth%20of%20Knowledge-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
