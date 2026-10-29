@@ -1,14 +1,5 @@
 <h1 align="center">Hi there, I'm Aazan Ali Khan 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=RF+Optimization+Engineer;Embedded+Systems+%2B+PCB+Design;Computer+Vision+%26+AI%2FML;Currently+Learning+Python+%F0%9F%90%8D;Currently+Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://aazanalikhan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  
-</p>
-
 ---
 
 ### 👋 Who I Am
